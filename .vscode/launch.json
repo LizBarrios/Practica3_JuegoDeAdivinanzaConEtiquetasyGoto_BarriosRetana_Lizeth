@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/practica 3",
-      "program": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/practica 3/build/Debug/outDebug",
+      "cwd": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/practicas/practica 3",
+      "program": "c:/Users/Lizeth2004/OneDrive/Escritorio/lenguaje c/practicas/practica 3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
